@@ -9,8 +9,8 @@
   for Certified Public Accountant (CPA), Chartered Accountant (CA), Company Secretary (CS), Tax Consultant
 - [Jamku Portal](https://portal.jamku.app) Automated Tax Litigation Management Solution \
   for managing notices from Income Tax, GST, TDS, ITAT, CESTAT on a single dashboard
-- [Income Tax Act 2025](https://ai.jamku.app/incometax2025) Beautifully designed website to read new law \
-  with detailed explanation for each section along with comparison with existing law.
+- [Jamku Pulse](https://github.com/madrecha/pulse) An unoffical WhatsApp chat app for small business, \
+  who have common WhatsApp number for customer/client communication.
 - [1fam Family Tree](https://1fam.app) Simple & free (no adds) Family Tree tracking app \
   Also available on [play store](https://play.google.com/store/apps/details?id=app.app_1fam.twa)
   
